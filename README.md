@@ -1,7 +1,7 @@
 This folder contains data and syntax for cluster analysis in R (Rstudio).
 
 selfscanning_data_for_clustering.csv
-The datafile selfscanning_data_for_clustering.csv has survey data for N = 610 grocery shoppers on the following variables: 
+The datafile selfscanning_data_for_clustering.csv has survey data for N = 609 grocery shoppers on the following variables: 
 d_selfscan ta1	ta2	ta3	ta4	ni1	ni2	ni3	ni4	so1	so2	so3	so4	so5	so6	yrs_age	yrs_edu	d_highedu	d_female.
 variables labeled 'd_' are dummies (0/1)
 variables labeled 'yrs_' have data expressed in years
